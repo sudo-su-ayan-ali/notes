@@ -1,4 +1,4 @@
-#Wireshark Tutorial for BEGINNERS-6
+# Wireshark Tutorial for BEGINNERS-6
 # Troubleshooting Network Latency Issues Using Wireshark — Deep Dive Notes
 
 **🎥 Video Title:** How to Troubleshoot Network Latency Issues Using Wireshark  
