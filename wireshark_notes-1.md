@@ -1,4 +1,4 @@
-#Wireshark Tutorial for BEGINNERS-1
+# Wireshark Tutorial for BEGINNERS-1
 # 🧠 Wireshark Tutorial (Inspiration Academy) – Detailed Notes
 
 ## 📌 1. Introduction to Wireshark
