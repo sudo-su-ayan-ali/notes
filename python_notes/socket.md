@@ -3,13 +3,21 @@
   import socket
 ```
 ## tcp socket
-```tcp = socket.socket(socket.AF_INET, socket.SOCK_STREAM)```
+```
+tcp = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+```
 ## udp socket
-```udp = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)```
+```
+udp = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+```
 ## bind to an ip and port
-```tcp.bind(("127.0.0.1",12345))```
+```
+tcp.bind(("127.0.0.1",12345))
+```
 ## listen for connection
-```tcp.listen(5)```
+```
+tcp.listen(5)
+```
 ## accept connections
 ```
 client_socket, client_address = tcp.accept()
