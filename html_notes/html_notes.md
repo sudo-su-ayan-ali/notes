@@ -1,5 +1,3 @@
----
-
 ## 🔹 1. **Document Structure Tags**
 
 | Tag | Description |
