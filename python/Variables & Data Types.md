@@ -68,16 +68,4 @@ print(type(name))     # <class 'str'>
 ❌ Cannot start with a number
 ❌ Cannot use reserved keywords (like `if`, `for`, etc.)
 
----
 
-## 🧠 Mini Practice
-
-```python
-city = "Delhi"
-population = 32000000
-is_capital = True
-
-print(type(city))        # str
-print(type(population))  # int
-print(type(is_capital))  # bool
-```
