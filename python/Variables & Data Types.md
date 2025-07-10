@@ -81,7 +81,3 @@ print(type(city))        # str
 print(type(population))  # int
 print(type(is_capital))  # bool
 ```
-
----
-
-Would you like a **PDF cheat sheet** or **interactive quiz** on variables and data types?
